@@ -1,0 +1,8 @@
+{
+  "name": "3D Vintage Paper Card - Chúc Mừng 20/10",
+  "description": "Tờ giấy 3D nếp gấp cổ điển chúc mừng 20/10 với vật lý tương tác kéo thả mượt mà trên mọi thiết bị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
